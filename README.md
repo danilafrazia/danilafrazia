@@ -1,13 +1,13 @@
 # Fala Dev!! Tudo beleza ?
 
-- 👨🏽‍💻   Eu me chamo [Danielle Braga La Frazia](https://www.linkedin.com/in/daniellelafrazia);
-- 💜   Atualmente sou Tech Recruiter na [Tecnologia Única](https://tecnologiaunica.com.br/);
-- 🤝   Nós somos apaixonados pela transformação digital e em ajudar nossos clientes a realizá-la.
-- 💸   Temos vagas 
--      -> **Fullstack Java**
--      -> **.Net e REACT**
--      -> **.Net + Microserviços**
-- ✌️  Se alguma fez sentido pra você, entre em [entre em contato comigo](https://www.linkedin.com/in/daniellelafrazia).
+ 👨🏽‍💻   Eu me chamo [Danielle Braga La Frazia](https://www.linkedin.com/in/daniellelafrazia);
+ 💜   Atualmente sou Tech Recruiter na [Tecnologia Única](https://tecnologiaunica.com.br/);
+ 🤝   Nós somos apaixonados pela transformação digital e em ajudar nossos clientes a realizá-la.
+ 💸   Temos vagas 
+       -> **Fullstack Java**
+       -> **.Net e REACT**
+       -> **.Net + Microserviços**
+ ✌️  Se alguma fez sentido pra você, entre em [entre em contato comigo](https://www.linkedin.com/in/daniellelafrazia).
 
 ##
 
