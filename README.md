@@ -5,7 +5,8 @@
 - 🤝   Nós somos apaixonados pela transformação digital e em ajudar nossos clientes a realizá-la.
 - 🤩   Temos vagas
 -    • **Fullstack Java**
--    • **.Net/Microserviços/React**
+-    • **.Net e REACT
+-    • **.Net + Microserviços**
 -    Se alguma fez sentido pra você, entre em [entre em contato comigo](https://www.linkedin.com/in/daniellelafrazia).
 
 ##
