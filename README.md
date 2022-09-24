@@ -1,14 +1,14 @@
-# Fala Dev!! Tudo beleza ?
+# Fala Dev!!! Tudo beleza?
 
-- 👨🏽‍💻 - Eu me chamo [Erika Pelaez](https://www.linkedin.com/in/erikapelaez-);
-- 💜 - Atualmente sou Founder & CEO na [Lovel.dev](https://www.linkedin.com/company/lovel-dev/);
-- 🦄 - Somos uma Startup que contrata os melhores talentos techs para empresas referência de mercado;
+- 👨🏽‍💻 - Eu me chamo [Danielle La Frazia](https://www.linkedin.com/in/daniellelafrazia);
+- 💜 - Atuo como Tech Recreuiter na [Tecnologia Única](tecnologiaunica.com.br);
+- 🦄 - Nós somos apaixonados pela transformação digital e em ajudar nossos clientes a realizá-la.
 - 💸 - Constantemente temos vagas para:
 - - **.Net + Microserviços** 
 - - **.Net + React**
 - - **Java** 
 - - **Fullstack**
-- - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/indaniellelafrazia).
+- - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/in/daniellelafrazia).
 
 ##
 
