@@ -3,7 +3,7 @@
 - 👨🏽‍💻 - Eu me chamo [Danielle Braga La Frazia](https://www.linkedin.com/in/daniellelafrazia);
 - 💜 - Atualmente sou Tech Recruiter na [Tecnologia Única](https://tecnologiaunica.com.br/);
 - 🤝 - Nós somos apaixonados pela transformação digital e em ajudar nossos clientes a realizá-la.
-- 🤩 → Temos vagas
+- 🤩   Temos vagas
 -    • Fullstack Java
 -    • .Net/Microserviços/React
 
