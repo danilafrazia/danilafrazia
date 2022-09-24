@@ -1,13 +1,14 @@
 # Fala Dev!! Tudo beleza ?
 
- - 👨🏽‍💻   Eu me chamo [Danielle Braga La Frazia](https://www.linkedin.com/in/daniellelafrazia);
- - 💜   Atualmente sou Tech Recruiter na [Tecnologia Única](https://tecnologiaunica.com.br/);
- - 🤝   Nós somos apaixonados pela transformação digital e em ajudar nossos clientes a realizá-la.
- - 💸   Temos vagas 
- -      -> **Fullstack Java**
- -      -> **.Net e REACT**
- -      -> **.Net + Microserviços**
- - ✌️  Se alguma fez sentido pra você, entre em [entre em contato comigo](https://www.linkedin.com/in/daniellelafrazia).
+- 👨🏽‍💻 - Eu me chamo [Erika Pelaez](https://www.linkedin.com/in/erikapelaez-);
+- 💜 - Atualmente sou Founder & CEO na [Lovel.dev](https://www.linkedin.com/company/lovel-dev/);
+- 🦄 - Somos uma Startup que contrata os melhores talentos techs para empresas referência de mercado;
+- 💸 - Constantemente temos vagas para:
+- - **.Net + Microserviços** 
+- - **.Net + React**
+- - **Java** 
+- - **Fullstack**
+- - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/indaniellelafrazia).
 
 ##
 
