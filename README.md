@@ -8,7 +8,7 @@
 - - **.Net + React**
 - - **Java** 
 - - **Fullstack**
-- - Se alguma fez sentido pra você, entre em contato comigo através do [LinkedIn](https://www.linkedin.com/in/daniellelafrazia) ou [WhatsApp](wa.me/5544998883694)
+- - Se alguma fez sentido pra você, entre em contato comigo através do [LinkedIn](https://www.linkedin.com/in/daniellelafrazia) ou [WhatsApp](https://wa.me/5544998883694)
 
 ##
 
