@@ -1,6 +1,6 @@
 # Fala Dev!!! Tudo beleza?
 
-- 👨🏽‍💻 - Eu me chamo [Danielle La Frazia](https://www.linkedin.com/in/daniellelafrazia);
+- 👨🏽‍💻 - Eu me chamo [Danielle](https://www.linkedin.com/in/daniellelafrazia);
 - 💜 - Atuo como Tech Recruiter na [Tecnologia Única](https://tecnologiaunica.com.br/);
 - 🦄 - Nós somos apaixonados pela transformação digital e em ajudar nossos clientes a realizá-la.
 - 💸 - Constantemente temos vagas para:
