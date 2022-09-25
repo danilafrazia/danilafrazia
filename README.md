@@ -6,8 +6,8 @@
 - 💸 - Temos vagas para:
 - - **.Net + Microserviços** 
 - - **.Net + React**
-- - **Java** 
-- - **Fullstack**
+- - **Fullstack Java** 
+- 
 - - Se alguma fez sentido pra você, entre em contato comigo através do [LinkedIn](https://www.linkedin.com/in/daniellelafrazia) ou [WhatsApp](https://wa.me/5544998883694).
 
 ##
