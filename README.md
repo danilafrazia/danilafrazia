@@ -5,9 +5,8 @@
 - 💟 - Nós somos apaixonados pela transformação digital e em ajudar nossos clientes a realizá-la.
 - 💸 - Temos vagas para:
 - - **Dev Fullstack** - Manja de C#, .Net, CSS, HTML e TFS? Vamos bater um papo!
-- - [LinkedIn](https://www.linkedin.com/in/daniellelafrazia) ou [WhatsApp](https://wa.me/5544998883694).
 
-- - Se alguma fez sentido pra você, entre em contato comigo através do [LinkedIn](https://www.linkedin.com/in/daniellelafrazia) ou [WhatsApp](https://wa.me/5544998883694).
+- - Entre em contato comigo através do [LinkedIn](https://www.linkedin.com/in/daniellelafrazia) ou [WhatsApp](https://wa.me/5544998883694).
 
 ##
 
